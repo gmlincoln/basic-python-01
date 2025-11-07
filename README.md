@@ -116,3 +116,16 @@ python3 first.py
     multi-line comment
     """
 ```
+
+
+# 🌟 CLASS 2 - BASIC PYTHON CONCEPTS
+
+### 1️⃣ Getting User Input
+
+```bash
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Hello,", name)
+print("You are", age, "years old")
+
+```
