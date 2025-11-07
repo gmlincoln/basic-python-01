@@ -204,3 +204,9 @@ age = 20
 print(f"My name is {name} and I am {age} years old")
 
 ```
+
+### 🎯 Practice Tasks
+
+1. Ask the user for two numbers and print their sum, difference, product, and division.
+2. Ask the user for their first and last name and greet them using concatenation and f-string.
+3. Ask the user for a number and check if it is even or odd using conditionals.
