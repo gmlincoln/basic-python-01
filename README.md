@@ -56,10 +56,10 @@ python3 --version
 
 ## 8️⃣ Real-world Applications
 
-- **🌐 Web Development**
-- **📊 Data Science & Machine Learning**
-- **⚙️ Automation & Web Scraping**
--- **🔌 Embedded Systems**
+**🌐 Web Development**  
+**📊 Data Science & Machine Learning**  
+**⚙️ Automation & Web Scraping**  
+**🔌 Embedded Systems**  
 
 ---
 
@@ -88,17 +88,17 @@ python3 main.py
 
 ## 🔟 How Python Code Executes
 
--**🧠 Executes line by line**
--**🐞 Makes debugging simple**
--**💡 Easy to understand code flow**
+**🧠 Executes line by line**  
+**🐞 Makes debugging simple**  
+**💡 Easy to understand code flow**  
 
 ---
 
 ## 1️⃣1️⃣ Understanding Code Execution & Debugging
 
--**🔍 Debugging helps you find and fix errors**
--**🧩 Helps break down complex logic**
--**🚀 Improves understanding of performance and others’ code**
+- **🔍 Debugging helps you find and fix errors**
+- **🧩 Helps break down complex logic**
+- **🚀 Improves understanding of performance and others’ code**
 
 ---
 
@@ -114,5 +114,5 @@ python3 main.py
     """
     This is a
     multi-line comment
-"""
+    """
 ```
