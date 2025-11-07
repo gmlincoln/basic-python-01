@@ -118,7 +118,7 @@ python3 first.py
 ```
 
 
-# 🌟 CLASS 2 - BASIC PYTHON CONCEPTS
+# 🌟 BASIC PYTHON CONCEPTS
 
 ### 1️⃣ Getting User Input
 
