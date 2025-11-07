@@ -55,7 +55,7 @@ python3 --version
 
 ## 8️⃣ Real-world Applications
 
-🌐 Web Development
+-**🌐 Web Development**
 -**📊 Data Science & Machine Learning**
 -**⚙️ Automation & Web Scraping**
 -**🔌 Embedded Systems**
@@ -90,15 +90,18 @@ python3 main.py
 -**🧠 Executes line by line**
 -**🐞 Makes debugging simple**
 -**💡 Easy to understand code flow**
+
 ---
 
-1️⃣1️⃣ Understanding Code Execution & Debugging
+## 1️⃣1️⃣ Understanding Code Execution & Debugging
 
 -**🔍 Debugging helps you find and fix errors**
 -**🧩 Helps break down complex logic**
 -**🚀 Improves understanding of performance and others’ code**
 
-## 1️⃣2️⃣ Python Comments
+---
+
+## 1️⃣2️⃣Python Comments
 
 -**💬 Single-line Comment**
 ```bash
