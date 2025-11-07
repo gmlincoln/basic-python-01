@@ -132,7 +132,7 @@ print("You are", age, "years old")
 
 ## 2️⃣ Checking Data Types
 
-```
+```bash
 x = 10
 y = "Python"
 print(type(x))  # <class 'int'>
