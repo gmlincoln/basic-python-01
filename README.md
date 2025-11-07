@@ -129,3 +129,13 @@ print("Hello,", name)
 print("You are", age, "years old")
 
 ```
+
+## 2️⃣ Checking Data Types
+
+```
+x = 10
+y = "Python"
+print(type(x))  # <class 'int'>
+print(type(y))  # <class 'str'>
+
+```
