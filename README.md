@@ -238,7 +238,7 @@ print(f"My name is {name} and I am {age} years old")
 ```
 
 ## Built-in Data Structures 
--[List](https://github.com/gmlincoln/python-list)
+- [List](https://github.com/gmlincoln/python-list)
 
 ### 7️⃣ Conditional Statements
 
