@@ -253,29 +253,9 @@ print(f"My name is {name} and I am {age} years old")
 
 ```
 
-## Built-in Data Structures 
-- [List](https://github.com/gmlincoln/python-list)
-
-### 7️⃣ Conditional Statements
-
-
-```python
-num = int(input("Enter a number: "))
-
-if num > 0:
-    print("Positive number")
-elif num < 0:
-    print("Negative number")
-else:
-    print("Zero")
-
-```
-
-
 
 
 ### 🎯 Practice Tasks
 
 1. Ask the user for two numbers and print their sum, difference, product, and division.
 2. Ask the user for their first and last name and greet them using concatenation and f-string.
-3. Ask the user for a number and check if it is even or odd using conditionals.
