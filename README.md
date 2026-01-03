@@ -103,7 +103,7 @@ python3 first.py
 
 ---
 
-### 1️⃣3️⃣ Variables & Input
+### 1️⃣3️⃣ Variables & Getting User Input
 ```python
 name = input("Enter your name: ") #Lincoln
 print("Hello", name)
@@ -115,11 +115,18 @@ Output: Hello Lincoln
 - Variables store data  
 - input() takes user input as text (string)
 
-
-
 ---
 
-### 1️⃣2️⃣Python Comments
+```python
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Hello,", name)
+print("You are", age, "years old")
+
+```
+
+
+### Python Comments
 
 **💬 Single-line Comment**
 ```python
@@ -133,19 +140,11 @@ Output: Hello Lincoln
     multi-line comment
     """
 ```
+---
+
+## 📘 CLASS 2: Data Types, Type Conversion & Operators
 
 
-## 🌟 BASIC PYTHON CONCEPTS
-
-### 1️⃣ Getting User Input
-
-```python
-name = input("Enter your name: ")
-age = input("Enter your age: ")
-print("Hello,", name)
-print("You are", age, "years old")
-
-```
 
 ### 2️⃣ Checking Data Types
 
