@@ -105,9 +105,13 @@ python3 first.py
 
 ### 1️⃣3️⃣ Variables & Input
 ```python
-name = input("Enter your name: ")
+name = input("Enter your name: ") #Lincoln
 print("Hello", name)
 ```
+```bash
+Output: Hello Lincoln
+```
+
 - Variables store data  
 - input() takes user input as text (string)
 
