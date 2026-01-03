@@ -198,6 +198,14 @@ full_name = first_name + " " + last_name
 print("Full Name:", full_name)
 
 ```
+
+
+##### ✅ Class-2 Practice
+- Take two numbers and print all arithmetic results
+- Print a sentence using f-string
+- Take multiple inputs in one line
+
+
 #### Python Strings
 ###### Slicing
 ```python
