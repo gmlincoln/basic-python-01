@@ -198,7 +198,29 @@ full_name = first_name + " " + last_name
 print("Full Name:", full_name)
 
 ```
+#### 5️⃣ Operators
 
+| Operator | Example   | Result   |
+| -------- | --------- | -------- |
+| `+`      | `2 + 3`   | `5`      |
+| `-`      | `5 - 2`   | `3`      |
+| `*`      | `3 * 4`   | `12`     |
+| `/`      | `10 / 3`  | `3.3333` |
+| `//`     | `10 // 3` | `3`      |
+| `**`     | `2 ** 3`  | `8`      |
+| `%`      | `10 % 3`  | `1`      |
+
+
+
+#### 6️⃣ f-Strings (Formatted Strings)
+
+```python
+
+name = "Lincoln"
+age = 20
+print(f"My name is {name} and I am {age} years old")
+
+```
 
 ##### ✅ Class-2 Practice
 - Take two numbers and print all arithmetic results
@@ -255,29 +277,7 @@ print("Full Name:", full_name)
 
 
 
-#### 5️⃣ Operators
 
-| Operator | Example   | Result   |
-| -------- | --------- | -------- |
-| `+`      | `2 + 3`   | `5`      |
-| `-`      | `5 - 2`   | `3`      |
-| `*`      | `3 * 4`   | `12`     |
-| `/`      | `10 / 3`  | `3.3333` |
-| `//`     | `10 // 3` | `3`      |
-| `**`     | `2 ** 3`  | `8`      |
-| `%`      | `10 % 3`  | `1`      |
-
-
-
-#### 6️⃣ f-Strings (Formatted Strings)
-
-```python
-
-name = "Lincoln"
-age = 20
-print(f"My name is {name} and I am {age} years old")
-
-```
 
 
 
