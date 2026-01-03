@@ -156,17 +156,13 @@ print(type(y))
 print(type(name))
 print(type(is_active))
 
-
-Common data types:
-
-int – integer
-
-float – decimal
-
-str – text
-
-bool – True / False
 ```
+#### Common data types:
+
+- int – integer  
+- float – decimal  
+- str – text
+- boolean – True / False
 
 #### 2️⃣ Checking Data Types
 
