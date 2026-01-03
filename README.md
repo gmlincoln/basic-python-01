@@ -1,5 +1,5 @@
 # Python Programming – Classes 1 to 3
-## PYTHON CLASS 1 - BASIC SETUP & FIRST CODE
+##  PYTHON CLASS 1 - BASIC SETUP & FIRST CODE
 
 ### 1️⃣ VS Code Installation
 💡 Download and install **Visual Studio Code (VS Code)** from [https://code.visualstudio.com](https://code.visualstudio.com)
@@ -15,7 +15,7 @@ Install the following extensions:
 ---
 
 
-✅ Download and install **Python** from [https://python.org](https://python.org)
+### 3️⃣ Download and install **Python** from [https://python.org](https://python.org)
 
 ---
 
@@ -100,6 +100,18 @@ python3 first.py
 **🔍 Debugging helps you find and fix errors**  
 **🧩 Helps break down complex logic**  
 **🚀 Improves understanding of performance and others’ code**  
+
+---
+
+### 1️⃣3️⃣ Variables & Input
+```python
+name = input("Enter your name: ")
+print("Hello", name)
+```
+- Variables store data  
+- input() takes user input as text (string)
+
+
 
 ---
 
