@@ -1,5 +1,5 @@
-# 🐍 Python Programming – Classes 1 to 3
-## 🐍 PYTHON CLASS 1 - BASIC SETUP & FIRST CODE
+# Python Programming – Classes 1 to 3
+## PYTHON CLASS 1 - BASIC SETUP & FIRST CODE
 
 ### 1️⃣ VS Code Installation
 💡 Download and install **Visual Studio Code (VS Code)** from [https://code.visualstudio.com](https://code.visualstudio.com)
