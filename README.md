@@ -1,12 +1,12 @@
 # Python Programming – Classes 1 to 3
-##  PYTHON CLASS 1 - BASIC SETUP & FIRST CODE
+###  PYTHON CLASS 1 - BASIC SETUP & FIRST CODE
 
-### 1️⃣ VS Code Installation
+#### 1️⃣ VS Code Installation
 💡 Download and install **Visual Studio Code (VS Code)** from [https://code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
-### 2️⃣ VS Code Extensions
+#### 2️⃣ VS Code Extensions
 Install the following extensions:  
 🧩 **Python**  
 🐞 **Python Debugger**  
@@ -15,11 +15,11 @@ Install the following extensions:
 ---
 
 
-### 3️⃣ Download and install **Python** from [https://python.org](https://python.org)
+#### 3️⃣ Download and install **Python** from [https://python.org](https://python.org)
 
 ---
 
-### 4️⃣ Check Python Version
+#### 4️⃣ Check Python Version
 ```python
 # 🪟 Windows
 python --version
@@ -30,13 +30,13 @@ python3 --version
 ```
 ---
 
-### 5️⃣ PyCharm Installation (Optional)
+#### 5️⃣ PyCharm Installation (Optional)
 
 💡 Optional but useful: Install PyCharm from [https://jetbrains.com/pycharm](https://jetbrains.com/pycharm)
 
 ---
 
-### 6️⃣ What is Python?
+#### 6️⃣ What is Python?
 
 🐍 Python is:
 - **A high-level programming language**  
@@ -47,7 +47,7 @@ python3 --version
 ---
 
 
-### 7️⃣ Why Learn Python?
+#### 7️⃣ Why Learn Python?
 
 **✅ Simplicity – Easy to learn and understand**  
 **✅ Versatility – Used in many fields**  
@@ -55,7 +55,7 @@ python3 --version
 
 ---
 
-### 8️⃣ Real-world Applications
+#### 8️⃣ Real-world Applications
 
 **🌐 Web Development**  
 **📊 Data Science & Machine Learning**  
@@ -65,7 +65,7 @@ python3 --version
 ---
 
 
-### 9️⃣ Writing & Running Your First Python Program
+#### 9️⃣ Writing & Running Your First Python Program
 
 📄 Create a file called first.py
 
@@ -87,7 +87,7 @@ python3 first.py
 ```
 ---
 
-### 🔟 How Python Code Executes
+#### 🔟 How Python Code Executes
 
 **🧠 Executes line by line**  
 **🐞 Makes debugging simple**  
@@ -95,7 +95,7 @@ python3 first.py
 
 ---
 
-### 1️⃣1️⃣ Understanding Code Execution & Debugging
+#### 1️⃣1️⃣ Understanding Code Execution & Debugging
 
 **🔍 Debugging helps you find and fix errors**  
 **🧩 Helps break down complex logic**  
@@ -103,7 +103,7 @@ python3 first.py
 
 ---
 
-### 1️⃣3️⃣ Variables & Getting User Input
+#### 1️⃣3️⃣ Variables & Getting User Input
 ```python
 name = input("Enter your name: ") #Lincoln
 print("Hello", name)
@@ -126,7 +126,7 @@ print("You are", age, "years old")
 ```
 
 
-### Python Comments
+#### Python Comments
 
 **💬 Single-line Comment**
 ```python
@@ -142,11 +142,33 @@ print("You are", age, "years old")
 ```
 ---
 
-## 📘 CLASS 2: Data Types, Type Conversion & Operators
+### 📘 CLASS 2: Data Types, Type Conversion & Operators
+
+#### 1️⃣ Python Data Types
+```python
+x = 10
+y = 3.5
+name = "Python"
+is_active = True
+
+print(type(x))
+print(type(y))
+print(type(name))
+print(type(is_active))
 
 
+Common data types:
 
-### 2️⃣ Checking Data Types
+int – integer
+
+float – decimal
+
+str – text
+
+bool – True / False
+```
+
+#### 2️⃣ Checking Data Types
 
 ```python
 x = 10
@@ -156,7 +178,7 @@ print(type(y))  # <class 'str'>
 
 ```
 
-### 3️⃣ Converting Input Types
+#### 3️⃣ Converting Input Types
 
 ```python
 
@@ -170,7 +192,7 @@ print("Sum:", a + b)
 
 ```
 
-### 4️⃣ Concatenation
+#### 4️⃣ Concatenation
 
 ```python
 
@@ -180,8 +202,8 @@ full_name = first_name + " " + last_name
 print("Full Name:", full_name)
 
 ```
-### Python Strings
-#### Slicing
+#### Python Strings
+###### Slicing
 ```python
     greetings = "Hello, World!"
     print(greetings[2:5]) #Output: llo
@@ -193,7 +215,7 @@ print("Full Name:", full_name)
     
 ```
 
-##### Modify Strings
+####### Modify Strings
 
 ```python
 
@@ -229,7 +251,7 @@ print("Full Name:", full_name)
 
 
 
-### 5️⃣ Operators
+#### 5️⃣ Operators
 
 | Operator | Example   | Result   |
 | -------- | --------- | -------- |
@@ -243,7 +265,7 @@ print("Full Name:", full_name)
 
 
 
-### 6️⃣ f-Strings (Formatted Strings)
+#### 6️⃣ f-Strings (Formatted Strings)
 
 ```python
 
@@ -255,7 +277,7 @@ print(f"My name is {name} and I am {age} years old")
 
 
 
-### 🎯 Practice Tasks
+#### 🎯 Practice Tasks
 
 1. Ask the user for two numbers and print their sum, difference, product, and division.
 2. Ask the user for their first and last name and greet them using concatenation and f-string.
